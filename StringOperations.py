@@ -4,7 +4,7 @@ sentence="hi my name is Reem Almezeal , I am a software enigineer , I am a stude
 word="Reem"
 
 
-print("The length of the sentence is:",len(sentence))
+print("The length of the sentence is :",len(sentence))
 print("First index of the word is:",sentence.find(word))
 print("word count in the sentence is:",sentence.count(word),"\n")
 print("The sentence in uppercase is:",sentence.upper(),"\n")
